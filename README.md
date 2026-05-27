@@ -144,7 +144,7 @@ Embora o cenário seja espacial, a ideia também pode ser aplicada em ambientes 
 
 - 🌐 Projeto Wokwi:  https://wokwi.com/projects/465120609913711617
 
-- 🎥 Vídeo demonstrativo:
+- 🎥 Vídeo demonstrativo: https://youtu.be/uDPULQC-IUI
 
 
 ## 🛰️ Conclusão
